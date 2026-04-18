@@ -1,0 +1,13 @@
+package com.sarni.spring03tx;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Spring03TxApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Spring03TxApplication.class, args);
+    }
+
+}
