@@ -11,7 +11,13 @@
         <option value="$PROJECT_DIR$/spring-study-02-aop/pom.xml" />
         <option value="$PROJECT_DIR$/spring-03-tx/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-restful-crud/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springmvc-02-practice/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK">
